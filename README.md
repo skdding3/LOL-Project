@@ -8,7 +8,7 @@ OP.GG Data Analysis Visualization Service (Rader Chart)
 
 
 ## 작업기간
-2021-08-09 ~ 2021-08-16 (
+2021-08-09 ~ 2021-08-16 (1주일 작업)
 
 ## 작업내용
 
