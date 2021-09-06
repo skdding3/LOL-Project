@@ -1,10 +1,7 @@
-# OPGG-Project
+# LOL-Project
 
 
-**OP.GG 사전과제**
-
-
-OP.GG Data Analysis Visualization Service (Rader Chart)
+LOL Data Analysis Visualization Service (Rader Chart)
 
 
 ## 작업기간
@@ -18,7 +15,7 @@ KR 지역 솔로랭크 다이아몬드 티어 이상의 소환사가 1명이상 
 
 소환사들을 나눌 수 있는 '티어를 제외한' 기준을 제시를 다음과 같은 방법으로 제시하고자 함.
 ```
-- 기존 OP.GG 서비스에서 게임 매칭시 같은 팀에 대한 실력을 가늠할 수 있는 시각적인 컨텐츠를 제시
+- 기존 전적검색 에서 게임 매칭시 같은 팀에 대한 실력을 가늠할 수 있는 시각적인 컨텐츠를 제시
   ┖ KDA, 최근게임 승패유무라는 한정적 실력판단 자료라는 직관적 데이터에서 벗어나고자 함.
     ┖ 한 경기에서 일어나는 세분화 된 데이터를 5가지 지표로 종합화 하여, 레이더 차트로 시각화 작업.
 ```
