@@ -9,7 +9,7 @@ LOL Data Analysis Visualization Service (Rader Chart)
 
 ## 작업내용
 
-lol 10.18 버전 솔로랭크 (약 17만건자료) 
+lol 10.18 버전 솔로랭크 (약 17만건자료) .
 
 KR 지역 솔로랭크 다이아몬드 티어 이상의 소환사가 1명이상 포함된 경기 데이터를 기반으로
 
