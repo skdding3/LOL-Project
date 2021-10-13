@@ -1,4 +1,4 @@
-# LOL-Project
+# LOL Data Analysis - Project
 
 
 LOL Data Analysis Visualization Service (Rader Chart)
