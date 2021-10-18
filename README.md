@@ -19,3 +19,5 @@ KR 지역 솔로랭크 다이아몬드 티어 이상의 소환사가 1명이상 
   ┖ KDA, 최근게임 승패유무라는 한정적 실력판단 자료라는 직관적 데이터에서 벗어나고자 함.
     ┖ 한 경기에서 일어나는 세분화 된 데이터를 5가지 지표로 종합화 하여, 레이더 차트로 시각화 작업.
 ```
+
+PDF (Notion) : https://www.notion.so/skdding/LOL-Data-Analysis-f6b1cc37dab44ac99888ac3f3da2b448
